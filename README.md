@@ -127,7 +127,7 @@ We also provide some visual results of **CWCC** on three samples from INTEL-TAU.
 
 
 
-We also provide some visual results of uncertainty estimation on the test samples of the different INTEL-TAU folds. 
+We also provide some visual results of uncertainty estimation on the test samples of the different INTEL-TAU folds. We report the predicted loss vs the true loss using the proposed approach. The correlation coefficients from fold 0 to 10 are: 0.47, 0.34, 0.24, 0.25, 0.34, 0.30, 0.45, 0.28, 0.33, and 0.31.
 
 <p align="center">
   <img src="figures/uncertainty_output.jpg" width="1100"  title="Predicted loss vs true loss using the proposed approach on the different folds of INTEL-TAU. The correlation coefficients from fold 0 to 10 are: 0.47, 0.34, 0.24, 0.25, 0.34, 0.30, 0.45, 0.28, 0.33, and 0.31.">
