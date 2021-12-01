@@ -114,4 +114,13 @@ Note2: Don't stop the code in the middle of this step. In case the code was stop
                                 workers=16)
 
      
+# Cite This Work
 
+```
+@article{laakom2021robust,
+  title={Robust channel-wise illumination estimation},
+  author={Laakom, Firas and Raitoharju, Jenni and Nikkanen, Jarno and Iosifidis, Alexandros and Gabbouj, Moncef},
+  journal={arXiv preprint arXiv:2111.05681},
+  year={2021}
+}
+```
