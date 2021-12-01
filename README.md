@@ -25,7 +25,7 @@ We note that the sub-equations in this decomposition are linear and symmetric, i
 **Model** 
 **CWCC** is composed of two blocks, the disjoint block and the merging block. The disjoint block learns to solve each sub-equation separately. To this end, each color channel has a separate CNN sub-model. Moreover, we exploit the symmetry of the sub-problems by sharing the weights of  'filter blocks' of the three sub-models.  In the merging block,  we concatenate the outputs of each channel of the first block. Then, we use a model which acts on this mixed representation and aims to learn the optimal way to merge the feature maps of each channel and approximate the illuminant $\textbf{e}$.
 <p align="center">
-  <img src="figures/intro22.jpg" width="600">
+  <img src="figures/cwcc_diagram.jpg" width="600">
 </p>
 
 
