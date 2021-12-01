@@ -1,5 +1,5 @@
 # Description
-This repository provides the official implimentation of the illuminant estimation algorithm **CWCC** proposed in paper *[Robust channel-wise illumination estimation](https://arxiv.org/abs/2111.05681)* accepted in *[BMVC 2021](https://www.bmvc2021.com/)* using *[INTEL-TAU dataset](https://ieeexplore.ieee.org/document/9371681)*. 
+This repository provides the official implimentation of the illuminant estimation algorithm **CWCC** proposed in paper *[Robust channel-wise illumination estimation](https://arxiv.org/abs/2111.05681)* accepted in *[BMVC 2021](https://www.bmvc2021.com/)*. 
 
 
 # CWCC
