@@ -121,7 +121,7 @@ The numerical results of the different approaches on INTEL-TAU datasets. We repo
 
 We also provide some visual results of **CWCC** on three samples from INTEL-TAU. From left to right,  the input image, the corrected images with **CWCC** method, and the ground truth image.
 <p align="center">
-  <img src="figures/model_output.jpg" width="600"  title="Optional title">
+  <img src="figures/model_output.jpg" width="600"  title="Predicted loss vs true loss using the proposed approach on the different folds of INTEL-TAU. The correlation coefficients from fold 0 to 10 are: 0.47, 0.34, 0.24, 0.25, 0.34, 0.30, 0.45, 0.28, 0.33, and 0.31.">
 </p>
 
 
