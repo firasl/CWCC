@@ -125,15 +125,12 @@ We also provide some visual results of **CWCC** on three samples from INTEL-TAU.
 </p>
 
 
-We also provide some visual results of **CWCC** on three samples from INTEL-TAU. From left to right,  the input image, the corrected images with **CWCC** method, and the ground truth image.
-<p align="center">
-  <img src="figures/model_output.jpg" width="600"  title="Optional title">
-</p>
+
 
 We also provide some visual results of uncertainty estimation on the test samples of the different INTEL-TAU folds. 
 
 <p align="center">
-  <img src="figures/uncertainty_output.jpg" width="600"  title="Optional title">
+  <img src="figures/uncertainty_output.jpg" width="900"  title="Optional title">
 </p> 
 
 # Cite This Work
