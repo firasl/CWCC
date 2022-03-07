@@ -52,7 +52,7 @@ The project was tested in Python 3. Run `pip install -r requirements.txt` to ins
 ### Using our codes.
 **1/** Download the preprossed 1080p TIFF variant of the dataset. 
 
-**2/** Set the root path variable in main_BoCF.py to your data path, e.g., 'root_path': '/mnt/Data/Firas2/Intel_v3/processed_1080p' 
+**2/** Set the root path variable in main_training.py to your data path, e.g., 'root_path': '/mnt/Data/Firas2/Intel_v3/processed_1080p' 
 
 **3/** Run the script  main_training.py : python3 main_training.py 
 
